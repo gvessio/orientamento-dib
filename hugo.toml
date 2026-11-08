@@ -1,0 +1,7 @@
+baseURL = 'https://example.org/'
+languageCode = 'it-it'
+title = 'Orientamento per le scuole | Dipartimento di Informatica'
+disableKinds = ['taxonomy', 'term', 'RSS']
+[params]
+  contactName = 'Gennaro Vessio'
+  contactEmail = 'gennaro.vessio@uniba.it'
