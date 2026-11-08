@@ -1,4 +1,4 @@
-baseURL = 'https://example.org/'
+baseURL = "https://gvessio.github.io/orientamento-dib/"
 languageCode = 'it-it'
 title = 'Orientamento per le scuole | Dipartimento di Informatica'
 disableKinds = ['taxonomy', 'term', 'RSS']
